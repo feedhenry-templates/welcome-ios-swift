@@ -1,4 +1,5 @@
-# welcome-ios-swift [![Build Status](https://travis-ci.org/feedhenry-templates/welcome-ios-swift.png)](https://travis-ci.org/feedhenry-templates/welcome-ios-swift)
+# welcome-ios-swift
+[![Build Status](https://travis-ci.org/feedhenry-templates/welcome-ios-swift.png)](https://travis-ci.org/feedhenry-templates/welcome-ios-swift)
 
 Author: Daniel Passos, Corinne Krych   
 Level: Intermediate  
