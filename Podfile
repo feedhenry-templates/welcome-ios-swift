@@ -5,6 +5,6 @@ platform :ios, '8.0'
 use_frameworks!
 
 target 'welcome-ios-swift' do
-	pod 'FeedHenry',  '5.0.4'
+	pod 'FeedHenry',  '5.0.5'
 	pod 'SWRevealViewController', '~> 2.3'
 end
