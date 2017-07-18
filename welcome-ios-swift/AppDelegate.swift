@@ -23,7 +23,11 @@ open class AppDelegate: UIResponder, UIApplicationDelegate {
                 if FH.isOnline == false {
                     self.presentAlert("Offline", message: "Make sure you're online.")
                 } else {
-                   self.presentAlert("Missing Configuration", message: "Please fill in fhconfig.plist file.")
+                    if error.code > 0 {
+                        self.presentAlert("Init error", message: error.localizedDescription)
+                    } else {
+                        self.presentAlert("Missing Configuration", message: "Please fill in fhconfig.plist file.")
+                    }
                 }
                 return
             }
