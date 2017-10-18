@@ -5,7 +5,7 @@
 
 Author: Daniel Passos, Corinne Krych  
 Level: Intermediate  
-Technologies: Swift 3, iOS, RHMAP, CocoaPods.  
+Technologies: Swift 4, iOS, RHMAP, CocoaPods.  
 Summary: A showcase app to demo native iOS app with RHMAP.  
 Community Project : [Feed Henry](http://feedhenry.org)  
 Target Product: RHMAP  
